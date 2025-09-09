@@ -1,0 +1,24 @@
+p {
+	color: white;
+	background-color: black;
+}
+
+li {
+	color: black;
+	background-color: white;
+}
+
+h1 {
+	color: darkred;
+	font-style: italic;
+}
+
+a {
+	color: red;
+	font-style: italic;
+
+}
+
+img {
+	size: 30px;
+}
